@@ -11,3 +11,6 @@ Idea for real life applications...
   next to integrate flight
     object detection
     and return flight to origin
+
+
+![Animated solution](https://raw.githubusercontent.com/sxMLxr/Small-maze-idea-i-had/output.gif)
